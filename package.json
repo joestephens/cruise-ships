@@ -1,0 +1,16 @@
+{
+  "name": "cruise-ships-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.0.1",
+    "eslint-config-mcr-codes": "^1.1.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
