@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "babel-eslint": "^8.2.5",
     "eslint": "^5.0.1",
     "eslint-config-mcr-codes": "^1.1.0",
+    "eslint-plugin-babel": "^5.1.0",
     "eslint-plugin-import": "^2.13.0"
   }
 }
